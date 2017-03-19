@@ -1,0 +1,1 @@
+<a href="https://github.com/jmg2014/googlecodejam/blob/master/LICENSE">
